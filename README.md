@@ -7,4 +7,4 @@ You will also need to source a couple of <A href=https://www.first4magnets.com/p
 
 Put all this together to make one of these:
 
-<img src=ZenGif.gif width=400>
+<img src=AutoZen.gif width=400>
