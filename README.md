@@ -7,7 +7,7 @@ You will also need to source a couple of <A href=https://www.first4magnets.com/p
 
 Print the garden and accessories, glue two cylindrical magnets into the stylus remover (oriented to be attracted toward the puck in the base) install the garden on the base (you may have to file out the locating holes a little, depending on how well your printer behaves), fill the pit with sand, and you will have one of these:
 <table width=100%>
-<TR><TD align="center"><img src=AutoZen.GIF width=600></TD>TR>
+<TR><TD align="center"><img src=AutoZen.GIF width=600></TD>
 </table>
 
 Here are a couple of shots of the printed elements:
