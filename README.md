@@ -14,3 +14,7 @@ Here are a couple of shots of the printed elements:
 <table width=100% cellpadding=0 cellspacing=0 border=0 align="center">
 <TR><TD><img src=AutoZen1.jpg width=300></TD><TD><img src=AutoZen2.jpg width=540></TD></TR> 
 </table>
+And an example of the final result:
+<table width=100% cellpadding=0 cellspacing=0 border=0 align="center">
+<TR><TD align="center"><img src=AutoZen3.jpg width=600></TD>
+</table>
