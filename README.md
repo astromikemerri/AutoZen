@@ -12,5 +12,5 @@ Print the garden and accessories, glue two cylindrical magnets into the stylus r
 
 Here are a couple of shots of the printed elements:
 <table width=100% cellpadding=0 cellspacing=0 border=0>
-<TR><TD><<img src=AutoZen1.jpg width=300></TD><TD><img src=AutoZen2.jpg width=300></TD></TR> 
+<TR><TD><img src=AutoZen1.jpg width=300></TD><TD><img src=AutoZen2.jpg width=300></TD></TR> 
 </table>
